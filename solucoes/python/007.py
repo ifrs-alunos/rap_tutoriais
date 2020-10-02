@@ -5,6 +5,6 @@
 
 peso = float(input("Seu peso: "))
 nome = input("Seu nome: ")
-altura = int(input("Sua altura: "))
+altura = float(input("Sua altura: "))
 imc = peso/(altura**2)
 print("{} seu IMC é: {:.1f}".format(nome,imc))
