@@ -17,19 +17,35 @@ Faça um programa que converta metros para centímetros.
 Faça um programa que pede o número de horas de jogatina de uma pessoa e calcule quanto tempo em dias ela gastou jogando.
 ***
 **8.** Faça um programa que peça o salário de um vendedor, quanto foi o valor das suas vendas do mês, e a porcentagem da sua comissão e imprima o salário com o bônus.
-Faça um programa que pede dois números inteiros e mostre na tela a diferença entre eles.
-Faça um programa que lê um número inteiro e mostra na tela se ele é par ou ímpar.
+***
+**9.** Faça um programa que pede dois números inteiros e mostre na tela a diferença entre eles.
+***
+**10.**Faça um programa que lê um número inteiro e mostra na tela se ele é par ou ímpar.
 Faça um programa que pede o DDD do usuário e mostre na tela sua cidade baseado na tabela abaixo. Caso o DDD não esteja na tabela, mostre “DDD não cadastrado”.
-Faça  um  programa  que,  ao receber  o valor  da largura  e  do  comprimento  de  uma figura geométrica, detecta se esta é um quadrado ou um retângulo.
-Faça um algoritmo que lê um número e retorna uma das mensagens: número maior que 30, igual a 30 ou menor do que 30.
-Escreva   um   algoritmo   para   ler   o   ano   de   nascimento   de   3   irmãos,   escrever   uma mensagem que indique se eles são TRIGÊMEOS, GÊMEOS, ou apenas IRMÃOS. Considere que eles são GÊMEOS se dois deles possuem a mesma idade e o outro diferente dos demais, e apenas irmãos se todas as idades forem diferentes.
-Faça um algoritmo para ler dois números inteiros e informar se estes números são iguais ou se são diferentes.
-Em uma rede de computadores, o firewall restringe o acesso à Internet dependendo do horário e do tipo de usuário que faz o acesso. Os tipos de usuários abaixo tem as seguintes restrições:
+| DDD |    Cidade    |
+|:---:|:------------:|
+|  54 |    Vacaria   |
+|  34 |  Uberlândia  |
+|  51 | Porto Alegre |
+|  71 |   Salvador   |
+|  11 |   São Paulo  |
+***
+**11.** Faça  um  programa  que,  ao receber  o valor  da largura  e  do  comprimento  de  uma figura geométrica, detecta se esta é um quadrado ou um retângulo.
+***
+**12.** Faça um algoritmo que lê um número e retorna uma das mensagens: número maior que 30, igual a 30 ou menor do que 30.
+***
+**13.** Escreva   um   algoritmo   para   ler   o   ano   de   nascimento   de   3   irmãos,   escrever   uma mensagem que indique se eles são TRIGÊMEOS, GÊMEOS, ou apenas IRMÃOS. Considere que eles são GÊMEOS se dois deles possuem a mesma idade e o outro diferente dos demais, e apenas irmãos se todas as idades forem diferentes.
+***
+**14.** Faça um algoritmo para ler dois números inteiros e informar se estes números são iguais ou se são diferentes.
+***
+**15.** Em uma rede de computadores, o firewall restringe o acesso à Internet dependendo do horário e do tipo de usuário que faz o acesso. Os tipos de usuários abaixo tem as seguintes restrições:
 •Funcionário: apenas entre 0 e 7, entre 18 e 0 e entre 12 e 13
 •Financeiro: qualquer horário
 •Diretoria: qualquer horário
 Faça um algoritmo que informa se o acesso foi permitido, considerando o horário e o tipo de usuário.
-A prefeitura de Porto Alegre abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Elabore um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
+***
+**16.** A prefeitura de Porto Alegre abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Elabore um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
+***
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato de horas
 Faça um programa que mostre a soma dos números de 1 à x (usando for), sendo x um inteiro pedido ao usuário.
