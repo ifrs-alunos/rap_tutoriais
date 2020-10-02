@@ -41,10 +41,10 @@
 ***
 **16.** Faça um algoritmo para ler dois números inteiros e informar se estes números são iguais ou se são diferentes.
 ***
-**17.** Em uma rede de computadores, o firewall restringe o acesso à Internet dependendo do horário e do tipo de usuário que faz o acesso. Os tipos de usuários abaixo tem as seguintes restrições:
-•Funcionário: apenas entre 0 e 7, entre 18 e 0 e entre 12 e 13
-•Financeiro: qualquer horário
-•Diretoria: qualquer horário
+**17.** Em uma rede de computadores, o firewall restringe o acesso à Internet dependendo do horário e do tipo de usuário que faz o acesso. Os tipos de usuários abaixo tem as seguintes restrições:  
+•Funcionário: apenas entre 0 e 7, entre 18 e 0 e entre 12 e 13  
+•Financeiro: qualquer horário  
+•Diretoria: qualquer horário  
 Faça um algoritmo que informa se o acesso foi permitido, considerando o horário e o tipo de usuário.
 ***
 **18.** A prefeitura de Porto Alegre abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Elabore um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
