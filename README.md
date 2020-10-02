@@ -79,10 +79,14 @@ Faça um algoritmo que informa se o acesso foi permitido, considerando o horári
 
 **29.** Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Para isso, desenvolva um programa para ler o nome do cliente e o tipo de combustível abastecido: 
 
-1. álcool 
+1.álcool 
+
 2.gasolina  
+
 3.diesel  
+
 4.Finalizar.  
+
 Caso o usuário informe um código inválido, isto é, fora da faixa de 1 a 4, então deve ser solicitado um novo código (até que seja válido).  
 
 Ao ser informado o código do combustível, o seu respectivo nome deve ser impresso na tela.  O programa será encerrado quando o código informado for o número 4 mostre na tela a mensagem: "MUITO OBRIGADO por participar da pesquisa de opinião", o total de clientes que participaram da pesquisa e a quantidade de clientes que abasteceram cada tipo de combustível.
