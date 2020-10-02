@@ -1,15 +1,8 @@
-#15. Escreva um algoritmo para ler o ano de nascimento de 3 irmãos, 
-# escreva uma mensagem que indique se eles são TRIGÊMEOS, GÊMEOS, ou apenas IRMÃOS. 
-# Considere que eles são GÊMEOS se dois deles possuem a mesma idade e o outro diferente dos demais, 
-# e apenas irmãos se todas as idades forem diferentes.
-anodenascimento1= int(input())
-anodenascimento2= int(input())
-anodenascimento3= int(input())
-if anodenascimento1==anodenascimento2==anodenascimento3:
-    print("TRIGÊMEOS")
+#15. Faça um algoritmo que verifica a validade de uma senha fornecida pelo usuário. A senha válida é o número 123456. Deve ser impresso as seguintes mensagens:
+#•ACESSO PERMITIDO caso a senha seja válida
+#•ACESSO NEGADO caso a senha seja inválida
+senha = input()
+if senha =='123456':
+    print("ACESSO PERMITIDO")
 else:
-    if anodenascimento1!=anodenascimento2!=anodenascimento3:
-        print("IRMÃOS")
-    else:
-        print("GÊMEOS")
-
+    print("ACESSO NEGADO")
