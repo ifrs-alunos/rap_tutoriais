@@ -12,10 +12,9 @@
 ***
 **6.** Faça um programa que converta metros para centímetros.
 ***
-**7.** Faça um programa para calcular o IMC de uma pessoa,pedindo o peso,nome e altura da pessoa e imprima a mensagem “{nome da pessoa} seu IMC é: {imc}”.
+**7.** Faça um programa para calcular o IMC de uma pessoa,pedindo o peso,nome e altura da pessoa e imprima a mensagem “{nome da pessoa} seu IMC é: {imc}”.IMC(dividir o peso pela altura ao quadrado)
 ***
-**8.** IMC(dividir o peso pela altura ao quadrado)
-Faça um programa que pede o número de horas de jogatina de uma pessoa e calcule quanto tempo em dias ela gastou jogando.
+**8.** Faça um programa que pede o número de horas de jogatina de uma pessoa e calcule quanto tempo em dias ela gastou jogando.
 ***
 **9.** Faça um programa que peça o salário de um vendedor, quanto foi o valor das suas vendas do mês, e a porcentagem da sua comissão e imprima o salário com o bônus.
 ***
