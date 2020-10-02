@@ -10,9 +10,7 @@
 ***
 **5.** Faça um programa que leia a quantidade de minutos que se passaram desde o começo do dia e mostre na tela esse valor em horas.
 ***
-**6.**
-
-Faça um programa que converta metros para centímetros.
+**6.**Faça um programa que converta metros para centímetros.
 ***
 **7.** Faça um programa para calcular o IMC de uma pessoa,pedindo o peso,nome e altura da pessoa e imprima a mensagem “{nome da pessoa} seu IMC é: {imc}”.
 ***
