@@ -20,7 +20,7 @@ Faça um programa que pede o número de horas de jogatina de uma pessoa e calcul
 ***
 **9.** Faça um programa que pede dois números inteiros e mostre na tela a diferença entre eles.
 ***
-**10.**Faça um programa que lê um número inteiro e mostra na tela se ele é par ou ímpar.
+**10.** Faça um programa que lê um número inteiro e mostra na tela se ele é par ou ímpar.
 Faça um programa que pede o DDD do usuário e mostre na tela sua cidade baseado na tabela abaixo. Caso o DDD não esteja na tabela, mostre “DDD não cadastrado”.
 | DDD |    Cidade    |
 |:---:|:------------:|
