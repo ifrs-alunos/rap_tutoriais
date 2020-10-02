@@ -34,7 +34,7 @@ Faça um programa que pede o DDD do usuário e mostre na tela sua cidade baseado
 ***
 **13.** Faça um algoritmo que lê um número e retorna uma das mensagens: número maior que 30, igual a 30 ou menor do que 30.
 ***
-**14.** Escreva   um   algoritmo   para   ler   o   ano   de   nascimento   de   3   irmãos,   escrever   uma mensagem que indique se eles são TRIGÊMEOS, GÊMEOS, ou apenas IRMÃOS. Considere que eles são GÊMEOS se dois deles possuem a mesma idade e o outro diferente dos demais, e apenas irmãos se todas as idades forem diferentes.
+**14.** Escreva   um   algoritmo   para   ler   o   ano   de   nascimento   de   3   irmãos,   escreva   uma mensagem que indique se eles são TRIGÊMEOS, GÊMEOS, ou apenas IRMÃOS. Considere que eles são GÊMEOS se dois deles possuem a mesma idade e o outro diferente dos demais, e apenas irmãos se todas as idades forem diferentes.
 ***
 **15.** Faça um algoritmo para ler dois números inteiros e informar se estes números são iguais ou se são diferentes.
 ***
