@@ -2,7 +2,7 @@
 
 import 'dart:io';
 main(){
-  print("Digite a largura da figura:");
+  print("Digite a altura da figura:");
   int largura = int.parse(stdin.readLineSync());
   print("Digite a largura da figura:");
   int comprimento = int.parse(stdin.readLineSync());
