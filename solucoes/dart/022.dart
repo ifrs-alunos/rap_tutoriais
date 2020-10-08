@@ -4,9 +4,9 @@ import 'dart:io';
 main(){
   bool flag = true;
   while (flag) {
-  int numero = int.parse(stdin.readLineSync());
-  if (numero==0){
-    flag = false;
-  }
+    int numero = int.parse(stdin.readLineSync());
+    if (numero==0){
+      flag = false;
+    }
   }
 }
